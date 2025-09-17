@@ -104,17 +104,16 @@ flex-wrap: wrap;
 
 @media(max-width:500px){
 .grop{
-    width: 65px;
+    width: 74px;
     margin-right:4px;
-    margin-top: 10px;
+    margin-bottom: 10px;
     height: 85px;
-    
    
 }
 
 .imggrop{
-  width: 40px;
-  height: 40px;
+  width: 52px;
+  height: 52px;
   border-radius: 50%;
   display: block;
   margin: auto;

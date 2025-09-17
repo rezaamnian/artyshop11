@@ -32,7 +32,7 @@ export default function Prodoct() {
             {name:'samavar.jpg',title:'سماور مسی  گازسوز',id:6879,price:'430,000'},
             {name:'saltanaty.jpg',title:'شراب خوری سلطنتی',id:117,price:'1290,000'},
             {name:'shamdan.jpg',title:'شمعدان با پایه ی چینی',id:887,price:'450,000'},
-            {name:'divarkob.jpg',title:'دیوارکوب طرح گل',id:9,price:'300,000'},
+            {name:'divarkob.webp',title:'دیوارکوب طرح گل',id:9,price:'300,000'},
             {name:'fenjan2.webp',title:'چای خوری سلطنتی طرح لیلی و مجنون',id:100,price:'2,800,000'},
             {name:'mag.jpg',title:'ماگ سرامیکی',id:1100,price:'150,000'},
             {name:'ghashogh1.webp',title:'سرویس 24 تیکه کارت قاشق و چنگال',id:15472,price:'1,300,000'},

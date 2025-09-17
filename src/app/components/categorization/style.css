@@ -1,0 +1,138 @@
+
+.div{
+  width: 100%;
+  background-color: aliceblue;
+  position:relative;
+  background-color: rgb(255, 255, 255);
+ left: 0px;
+}
+.categorizitions{
+margin: 0px  ;
+width:100%;
+min-height: 190px;
+ 
+display:flex;
+justify-content:start;
+flex-wrap: wrap;
+direction: rtl;
+background-color: rgb(255, 255, 255);
+ 
+}
+
+
+.heder{
+  font-size:26px;
+  height: 30px;
+  width: 100%;
+  text-align: center;
+  color: rgb(5, 5, 249);
+  display: block;
+  margin: auto;
+
+}
+
+.grop{
+    width: 115px;
+    margin-right: 15px;
+    margin-top: 15px;
+    height: 130px;
+    
+   
+}
+
+.imggrop{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  display: block;
+  
+  margin: auto;
+
+}
+
+.labelgrop{
+    width: 100%;
+    height: 30px;
+   margin-left: auto;
+   display: block;
+   text-align: center;
+
+}
+
+
+@media(max-width:1300px){
+.categorizitions{
+
+display:flex;
+justify-content:center;
+flex-wrap: wrap;
+ 
+}
+
+}
+
+@media(max-width:1000px){
+.grop{
+    width: 105px;
+    margin-right: 15px;
+    margin-top: 12px;
+    height: 120px;
+    
+   
+}
+
+.imggrop{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+
+}
+
+ .heder{
+  font-size: 22px;
+}
+
+.labelgrop{
+  font-size: 14px;
+  height: 19px;
+}
+
+}
+
+
+@media(max-width:500px){
+.grop{
+    width: 65px;
+    margin-right:4px;
+    margin-top: 10px;
+    height: 85px;
+    
+   
+}
+
+.imggrop{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+
+}
+
+.heder{
+  font-size: 15px;
+}
+
+.labelgrop{
+  font-size: 14px;
+  height: 19px;
+}
+
+.labelgrop{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+}

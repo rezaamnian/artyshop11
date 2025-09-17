@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+
+@theme inline {
+ 
+
+}
+
+body {
+  margin: 0px;
+  background:#ffffff;
+  color:#000000;
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+  
+}
+
+html{
+  font-size: 16px;
+}
+
+#lk{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.nnn{
+
+  position: absolute;
+  bottom: 611px;
+  left: 400px;
+}
+
+
+.rootpage{
+  width:100%;
+  margin: auto;
+  display: flex;
+  flex-flow: column;
+}
+
+.bn{
+  width: 400px;
+  background-color: rgb(255, 98, 0);
+  height: 150px;
+}

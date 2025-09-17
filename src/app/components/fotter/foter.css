@@ -1,0 +1,148 @@
+.fotter{
+
+position: relative;
+height: 320px;
+width: 100%;
+margin-top: 30px;
+background-color: rgb(255, 255, 255);
+display: flex;
+justify-content: flex-start;
+align-items:center;
+direction: rtl;
+color: #585858;
+border-top: 2px solid rgb(225, 225, 225);
+}
+
+
+
+.informations{
+
+width: 20%;
+height: 90%;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+.connections{
+width: 20%;
+height: 90%;
+margin-left: 20px;
+margin-right: 10px;
+}
+
+.services{
+
+width: 20%;
+height: 90%;
+margin-left: 20px;
+margin-right: 10px;
+}
+
+.electronic-trust{
+width: 20%;
+height: 90%;
+margin-left: 20px;
+margin-right: 10px;
+text-align: center;
+
+}
+
+.header{
+
+font-size: 18px;
+}
+
+.list{
+padding: 2px;
+}
+
+.list li{
+
+list-style: none;
+padding: 8px 0px;
+}
+
+.icon-1{
+    margin-left: 8px;
+    font-size: 20px;
+}
+
+.img-electronic-trust{
+
+width:100px;
+height: 100px;
+margin-left: 20px;
+float: left;
+}
+
+@media (max-width:500px )and (min-width:0px){
+
+.fotter{
+height: 190px;
+position: relative;
+width: 100%;
+margin-top: 30px;
+background-color: rgb(255, 255, 255);
+display: flex;
+justify-content: flex-start;
+align-items:center;
+direction: rtl;
+color: #585858;
+border-top: 2px solid rgb(225, 225, 225);
+}
+
+
+
+.informations{
+
+width: 24%;
+}
+
+.connections{
+width: 24%;
+
+}
+
+.services{
+
+width: 24%;
+
+}
+
+.electronic-trust{
+width: 24%;
+
+text-align: center;
+
+}
+
+.header{
+font-size: 11px;
+}
+
+.list{
+padding: 2px;
+}
+
+.list li{
+font-size: 12px;
+list-style: none;
+padding: 4px 0px;
+}
+
+.icon-1{
+    margin-left: 8px;
+    font-size: 20px;
+}
+
+.img-electronic-trust{
+
+width:40px;
+height: 40px;
+margin-left: 20px;
+float: left;
+}
+
+
+
+}

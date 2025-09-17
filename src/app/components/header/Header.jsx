@@ -68,9 +68,9 @@ export default function Header() {
 
 
         <div className='menolist'>
-      <div className='home-item'>
+      <div className='item'>
         <i className='fas fa-home home-icon'> </i>
-         <span  className='home-label'>خانه</span> 
+         <span >خانه</span> 
       </div>
        
       <span  className='item'>دسته بندی ها </span>

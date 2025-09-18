@@ -489,7 +489,7 @@ display: none;
  display: flex;
  height: 48px;
  width:100%;
- background-color: rgb(255, 85, 0);
+ background-color: rgb(255, 255, 255);
  direction: rtl;
  align-items: center;
  justify-content:flex-start;
@@ -507,7 +507,7 @@ display: none;
 height: 85%;
 width:86%;
 border-radius: 10px;
-border: 1px solid rgb(85, 0, 255);
+border: 1px solid rgb(185, 182, 182);
 margin-right: 10px;
 }
 
@@ -689,7 +689,7 @@ display: none;
 height: 85%;
 width:80%;
 border-radius: 10px;
-border: 1px solid rgb(85, 0, 255);
+border: 1px solid rgb(185, 185, 185);
 margin-right: 10px;
 }
 

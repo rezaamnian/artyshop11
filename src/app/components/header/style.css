@@ -740,10 +740,8 @@ padding:0px 0px;
  border-top:2px solid rgb(227, 227, 227);
  border-bottom:2px solid rgb(240, 240, 240);
 background-color: rgb(255, 64, 0);
-  height:25px;
 direction: rtl;
 display: flex;
-align-items: end;
 width:2500px;
 max-width: 100%;
 margin:0 auto;
@@ -768,11 +766,11 @@ border-bottom: 2px solid rgb(226, 226, 226);
 }
 
 .item{
-  padding:0px 20px;
-     height: 20px;
-     padding-top: 5px;
+  padding:2px 25px;
+
 
 }
+
 
 .item:hover{
 

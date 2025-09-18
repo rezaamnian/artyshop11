@@ -961,35 +961,23 @@ background-color: blue;
 
 @media (max-width:1000px )and (min-width:800px){
 
+
+
 .priceprodoct{
-    width: 70%;
-     text-align: right;
-      display: block;
-      margin-top: 2px;
-  font-size:13px;
-   float: right;
-   margin-right: 10px;
-   color: rgb(253, 102, 2);
-     margin-bottom: 6px;
+    direction:rtl;
+     margin: auto;
+    display: block;
+     font-size: 1.3vw;
+     
+    color: rgb(253, 102, 2);
+    margin-top:3px;
+     margin-bottom:4px;
+     text-align: center;
+
+
 }
 
 
-.buttonprodoct{
-    width: 80px;
-    margin-left: 10px;
-    height: 25px;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(197, 197, 197);
-    border-radius: 6px;
-      font-weight:600;
-      font-size: 12px;
-      background-color: #ffffff;
-      display: block;
-      position: absolute;
-      bottom: 2px;
-      left: 2px;
-      
-}
 
 }
 
@@ -997,32 +985,20 @@ background-color: blue;
 
 
 .priceprodoct{
-    width: 70%;
-     text-align: right;
-      display: block;
-      margin-top: 2px;
-  font-size:13px;
-   float: right;
-   margin-right: 10px;
-   color: rgb(253, 102, 2);
-     margin-bottom: 6px;
+    direction:rtl;
+     margin: auto;
+    display: block;
+     font-size: 1.3vw;
+     
+    color: rgb(253, 102, 2);
+     margin-top:3px;
+     margin-bottom:4px;
+     text-align: center;
+
+
 }
 
-.buttonprodoct{
-    width: 80px;
-    margin-left: 10px;
-    height: 25px;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgb(197, 197, 197);
-    border-radius: 6px;
-      font-weight:600;
-      font-size: 12px;
-      background-color: #ffffff;
-      display: block;
-      position: absolute;
-      bottom: 2px;
-      left: 2px;
-      
-}
+
+
 
 }

@@ -240,7 +240,8 @@ width: 24px;
      font-size: 1vw;
      
     color: rgb(253, 102, 2);
-    margin-top: 5%;
+    margin-top: 4px;
+     margin-bottom: 5px;
      text-align: center;
 
 
@@ -914,6 +915,8 @@ background-color: blue;
 
 }
 
+
+
 .prodoct-item{
     width:247px;
     height: 380px;
@@ -924,6 +927,21 @@ background-color: blue;
     position: relative;
 
 }
+
+.priceprodoct{
+    direction:rtl;
+     margin: auto;
+    display: block;
+     font-size: 1vw;
+     
+    color: rgb(253, 102, 2);
+    margin-top: 3px;
+    margin-bottom: 5px;
+     text-align: center;
+
+
+}
+
 }
 
 
@@ -956,6 +974,20 @@ background-color: blue;
     position: relative;
 
 }
+
+.priceprodoct{
+    direction:rtl;
+     margin: auto;
+    display: block;
+     font-size: 1vw;
+     
+    color: rgb(253, 102, 2);
+    margin-top: 3px;
+    margin-bottom: 5px;
+     text-align: center;
+
+
+}
 }
 
 
@@ -970,8 +1002,8 @@ background-color: blue;
      font-size: 1.5vw;
      
     color: rgb(253, 102, 2);
-    margin-top:4px;
-     margin-bottom:4px;
+    margin-top:3px;
+     margin-bottom:5px;
      text-align: center;
 
 
